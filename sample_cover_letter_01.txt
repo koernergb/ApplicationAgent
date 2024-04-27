@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Software Development Intern/OPT position at Softura. As a computer science student at the University of Michigan with a strong foundation in software development and prior internship experience, I am eager to contribute to Softura's mission of delivering high-quality custom software solutions and making a meaningful impact on customers' businesses.
+
+Throughout my academic journey and internship experiences, I have gained hands-on experience in various programming languages and technologies. Last summer, I helped the University of Michigan ITS race to complete a native GPT clone before the students' return in Fall '23. This project has received press coverage in Inside Higher Ed for being one of the first of its kind in the American higher ed system. In this internship, I collaborated with UI/UX designers to add tested accessibility features to the Vue.js and Typescript frontend. I also worked with Django and Langchain on the backend and helped add automated testing with Playwright to their deployment workflow. 
+
+Beyond my industry experience, I am a member of the UM Robotics Department's Image-guided Medical Robotics lab, where I trained a Transformer neural network in PyTorch to solve the path-planning problem for an imaging robot's laser scanner. This experience allowed me to explore the intricacies of neural networks, using techniques like weight pruning and quantization to improve model inference speed. The results of our work have been published at the SPIE Photonics West conference. As part of the lab, I also built a code-understanding script leveraging the GPT API to help new student members get up to speed on the complex imaging codebase. My GitHub also includes LLM-leveraging side projects, such as the RAG bot I built with Flask and the Transformers library to help connect food-insecure people with resources in the local community. 
+
+Thank you for considering my application. I am enthusiastic about the opportunity to apply my skills, learn from the Softura team, and contribute to the development of innovative software solutions. I look forward to the possibility of discussing further how I can support Softura's mission as a Software Development Intern/OPT.
+
+Sincerely,
+Koerner Gray-Buchta
+
+

@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Connected Vehicles Internship at ETAS! As a computer science student at the University of Michigan with prior research and internship experience, I am eager to contribute to ETAS' mission of making the software-defined vehicle a reality.
+
+Throughout my academic journey and internship experiences, I have developed a strong foundation in languages like Python, C/C++, and Javascript. As part of the Ford Robotics Department’s Image-Guided Medical Robotics lab, I’ve trained a Transformer neural network in PyTorch to solve a path-planning problem for a UR5e robot arm’s laser scanner, successfully integrating the model into the broader system architecture. I also built an LLM-powered code-understanding tool using the GPT API to help onboard new lab members to our complex codebase, demonstrating my ability to develop creative solutions to real-world challenges. My research with the lab over the past year has given me meaningful exposure to scientific computing in Python, training neural networks, and working with embedded systems, experience that would transfer well to working with CCU at ETAS.
+
+In addition to my research experience, I have professional web development experience working with AI technologies, having helped UM ITS race to offer free GPT 4 access to students with a native chatbot, a project which received press coverage in higher ed circles for its novelty. There I added tested accessibility-oriented features to the codebase written in vue.js, django, and langchain. I also have side projects on my GitHub, including a retrieval-augmented generation bot written in Flask and Transformers to help address food insecurity in my local community. I am confident that my strong academic background, prior research and internship experience, and passion for AI make me a strong candidate for this internship. 
+
+Thank you for considering my application. I am enthusiastic about the opportunity to apply my skills, learn from experienced professionals, and contribute to ETAS' groundbreaking work in connected vehicle technology. I look forward to the possibility of discussing further how I can support ETAS' mission as a Connected Vehicles Intern.
+
+Sincerely,
+Koerner Gray-Buchta
+

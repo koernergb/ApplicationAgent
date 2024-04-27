@@ -1,0 +1,45 @@
+KOERNER GRAY-BUCHTA
+Ann Arbor, MI| P: +1 616-826-9948 | koernerg@umich.edu
+EDUCATION
+UNIVERSITY OF MICHIGAN Ann Arbor, MI
+Bachelor of Science in Computer Science April 2026
+Cumulative GPA: 3.0/4.0
+Coursework: Artificial Intelligence, Evolutionary Algorithms, Complex Systems, Data Structures and Algorithms
+SKILLS
+PROGRAMMING LANGUAGES & FRAMEWORKS
+Python [Django, Flask, Numpy, Scipy, Matplotlib,
+OpenCV, Pytorch, Transformers, Langchain, Llama
+Index, Crew AI]
+C/C++[STL]
+Javascript [vue.js, jQuery, bootstrap]
+Git version control, Windows and Linux development
+RESEARCH
+Computer Vision
+Data Science Visualization
+Transformers for Combinatorial Optimization
+LLMs
+WORK EXPERIENCE
+ITS GEN AI SERVICES, UM INFORMATION & TECHNOLOGY SERVICES Ann Arbor, MI
+Computer Consultant July 2023 - October 2023
+Helped build UM’s groundbreaking native generative AI services with langchain, django, and vue.js
+Added tested front-end features tracked with Jira in collaboration with UX/UI designers and cybersecurity team members
+IMAGE-GUIDED MEDICAL ROBOTICS LAB, UNIVERSITY OF MICHIGAN Ann Arbor, MI
+Research Assistant, I Jan 2023 – Present
+Collaborated with graduate students and professors to create an intelligent, Robotically-aligned OCT scanning system
+Created high-dimensional visualizations with matplotlib for conference and journal papers
+Optimized the regularly-called path-planner/TSP solver function for a speed-up of 26%, contributing to the project’s 5x
+greater frame rate than standard OCT systems
+Trained a pytorch Transformers-based computer vision model on the University’s Slurm cluster
+IMRA AMERICA, INC Ann Arbor, MI
+Production Engineer August 2022 - December 2022
+Built and tested hundreds of chirped pulse amplification components for femtosecond lasers used in medical devices
+Collaborated with IMRA's team of optical physicists, engineers, and technicians to boost production and document processes
+UNIVERSITY PROJECTS
+FOOD DONATION RAG BOT January 2024
+Built a prototype Llama-based Retrieval-Augmented Generation system to help address local food insecurity with Flask and
+Transformers
+AI-BASED PDF SUMMARIZER March 2023
+Created a google Colab script that loads a PDF and summarizes it with an LLM
+MUSICAL CELLULAR AUTOMATA SIMULATOR Jan 2022
+Designed and built an algorithmic composition script based on Conway’s ‘Game of Life’ cellular automaton model using
+creative coding libraries for Javascript (p5Gibber) and Flask
